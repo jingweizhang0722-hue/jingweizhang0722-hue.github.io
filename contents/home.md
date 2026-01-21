@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![jingweizhang0722](https://img.shields.io/badge/jingweizhang0722-github-blue?logo=github)](https://github.com/jingweizhang0722-hue)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently pursuing a bachelor degree in SJTU-Paris Elite Institute of Technology (SPEIT) at Shanghai Jiao Tong University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email : jingwei_zhang@sjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+2023-2027 · B.E., SJTU-Paris Elite Institute of Technology, Shanghai Jiao Tong University\
+2017-2023 · Nanjing Foreign Language School
+
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Speech Enhancement; Speech Separation
 
